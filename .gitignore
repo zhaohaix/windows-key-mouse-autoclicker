@@ -1,0 +1,8 @@
+__pycache__/
+build/
+*.spec
+dist/
+native_test_output.txt
+测试结果.json
+.venv/
+*.tmp
